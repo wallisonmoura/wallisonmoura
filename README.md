@@ -6,4 +6,4 @@ In my free time I like, watching movies / series (🎞️) and videos about tech
 
 Would you like to meet me?
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallison-moura/)](https://www.linkedin.com/in/wallison-moura/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-F66A1F?style=red&logo=Instagram&logoColor=white)](https://www.instagram.com/wallison_dev/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallison-moura/)](https://www.linkedin.com/in/wallison-moura/)
