@@ -7,8 +7,6 @@
 - 🔎 Driven by challenges and passionate about technology
   
 - 👩‍💻 passionate about innovation and knowledge!
-  
-- 📚 Developer with knowledge in React.js, Next.js, Node.js/javascript using Typescript and its entire ecosystem and currently knowing .Net
 
 - 🌱 Live and learn!
 
